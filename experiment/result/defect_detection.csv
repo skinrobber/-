@@ -1,0 +1,9 @@
+﻿fault_id,fault_name,baseline_detected,enhanced_detected
+category_coupon_ignores_category,category coupon uses whole-order amount,False,True
+coupon_threshold_strict,coupon threshold uses > instead of >=,False,True
+discount_order_before_member,coupon threshold is checked before member discount,False,True
+negative_quantity_allowed,zero quantity is not rejected,False,True
+new_customer_not_capped,new customer discount is not capped,False,True
+rounding_down,money is rounded down instead of half-up,True,True
+shipping_100_boundary,100-yuan shipping boundary uses > instead of >=,True,True
+shipping_200_boundary,200-yuan free-shipping boundary uses > instead of >=,True,True

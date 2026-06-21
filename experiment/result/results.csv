@@ -1,0 +1,7 @@
+﻿metric,baseline,enhanced
+test_cases,120,900
+statement_coverage_percent,75.56,98.89
+branch_coverage_percent,54.76,97.62
+detected_faults,3,8
+total_faults,8,8
+defect_detection_rate_percent,37.5,100.0
